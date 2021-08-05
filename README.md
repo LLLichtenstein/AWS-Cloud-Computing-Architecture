@@ -11,7 +11,7 @@
 > > A year ago the CIO asked the IT team to ensure that the application handles increased traffic and users. As a result, the IT team overprovisioned resources, which helped alleviate the problem for the first three months. This process had to be repeated a few times.<br>
 > > GoGreen's CIO, in conjunction with the CFO, concluded that purchasing new equipmnet every 2 - 4 months is not a viable solution for this environment.<br>
 > > The procurement process, which is always expedited, takes about 20 days, and it costs around $100,000. <br><br>
-### Project Plan
+### Project Plan - Deliverables
 > > 1. Provide a diagram of your proposed solution with as many details as possible <br>
 > > &emsp; Cloud Implementation Architecture Diagram: 
 > > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg <br>
