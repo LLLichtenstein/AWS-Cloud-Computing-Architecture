@@ -16,7 +16,7 @@
 > > &emsp; Cloud Implementation Architecture Diagram: 
 > > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg <br>
 > > 2. Provide full documentation - a guide to deploy the application on AWS - about all aspects of configurations in the environment <br>
-> > &emsp; 
+> > &emsp; Final Project Description: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/Final%20Project%20Description.pdf <br>
 > > 3. A CloudFormation template of the environment in addition to the documentation will be accepted <br>
 > > &emsp; 
 ### Current Environment and Requirements
