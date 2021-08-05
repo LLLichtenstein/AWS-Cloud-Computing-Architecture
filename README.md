@@ -27,5 +27,7 @@
 > > &emsp; 2x virtual machines (8 vCPUs / 48-GB memory / 5.5-TB storage)<br>
 > > &emsp; SUSE Linux Enterprise Server 23 <br>
 > > &emsp; MySQL 5.6.22 database cluster <br>
+### Requirements
+> > 
 ### Cloud Implementation Architecture Diagram
 > > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg
