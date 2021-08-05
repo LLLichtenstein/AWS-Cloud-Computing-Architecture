@@ -10,8 +10,22 @@
 > > Currently the application runs on premises at GoGreen's data center and consistently suffers performance and reliability issues. <br>
 > > A year ago the CIO asked the IT team to ensure that the application handles increased traffic and users. As a result, the IT team overprovisioned resources, which helped alleviate the problem for the first three months. This process had to be repeated a few times.<br>
 > > GoGreen's CIO, in conjunction with the CFO, concluded that purchasing new equipmnet every 2 - 4 months is not a viable solution for this environment.<br>
-> > The procurement process, which is always expedited, takes about 20 days, and it costs around $100,000. <br>
-> > 
- 
+> > The procurement process, which is always expedited, takes about 20 days, and it costs around $100,000. <br><br>
+### Current Environment
+> > Web tier:<br>
+> > &emsp; 6x Virtual Machines (2 vCPUS / 4GB memory)<br>
+> > &emsp; SUSE Linux Enterprise Server 12 <br>
+> > &emsp; Apache web server <br>
+> > &emsp; PHP server with SQL connectors <br>
+> > &emsp; PHP files <br><br>
+> > Application tier: <br>
+> > &emsp; 5x virtual machines (4 vCPUs /  32-GB memory) <br>
+> > &emsp; SUSE Linux Enterprise Server 12 <br>
+> > &emsp; Java SRE 7 <br>
+> > &emsp; Java application files <br><br>
+> > Database tier:<br>
+> > &emsp; 2x virtual machines (8 vCPUs / 48-GB memory / 5.5-TB storage)<br>
+> > &emsp; SUSE Linux Enterprise Server 23 <br>
+> > &emsp; MySQL 5.6.22 database cluster <br>
 ### Cloud Implementation Architecture Diagram
 > > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg
