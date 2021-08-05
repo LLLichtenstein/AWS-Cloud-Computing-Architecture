@@ -1,5 +1,6 @@
 # Amazon Web Services (AWS) Cloud Computing Architecture
 ## Migration to the Cloud
+### Overview
 > > This final project for the AWS Academy Certificate in Cloud Computing Architecture details an architectural solution to move an existing application to AWS.<br><br>
 > > In this scenario I am a Cloud Architect employed by GoGreen to help them move an application to AWS.<br><br>
 > > The assignment description is as follows:
@@ -12,5 +13,5 @@
 > > The procurement process, which is always expedited, takes about 20 days, and it costs around $100,000. <br>
 > > 
  
-## Cloud Implementation Architecture Diagram
+### Cloud Implementation Architecture Diagram
 > > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg
