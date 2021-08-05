@@ -15,11 +15,11 @@
 ### Project Plan - Deliverables
 > > 1. Provide a diagram of your proposed solution with as many details as possible <br>
 > > &emsp; Cloud Implementation Architecture Diagram: 
-> > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg <br>
+> > https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/go_green_diagram.jpg <br><br>
 > > 2. Provide full documentation - a guide to deploy the application on AWS - about all aspects of configurations in the environment <br>
-> > &emsp; Final Project Description: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/Final%20Project%20Description.pdf <br>
+> > &emsp; Final Project Description: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/Final%20Project%20Description.pdf <br><br>
 > > 3. A CloudFormation template of the environment in addition to the documentation will be accepted <br>
-> > &emsp; JSON Template: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/GoGreen%20JSON.txt <br>
+> > &emsp; JSON Template: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/GoGreen%20JSON.txt <br><br>
 ### Current Environment and Requirements
 > > The following current environment and requirements were provided in order to complete the project. 
 #### Current Environment
@@ -36,7 +36,7 @@
 > > &emsp; Java application files <br><br>
 > > Database tier:<br>
 > > &emsp; 2x virtual machines (8 vCPUs / 48-GB memory / 5.5-TB storage)<br>
-> > &emsp; SUSE Linux Enterprise Server 23 <br>
+> > &emsp; SUSE Linux Enterprise Server 12 <br>
 > > &emsp; MySQL 5.6.22 database cluster <br>
 #### Requirements
 > > Environment: <br>
@@ -48,18 +48,18 @@
 > > &emsp; Recovery Point Objective for the application is four hours <br>
 > > &emsp; Recovery Time Objective for the application is 30 minutes <br>
 > > &emsp; Must support a user base that is expected to grow 90% in the next three years <br>
-> > &emsp; Documents and pictures must be kept for five years. However, these files are rarely requested after three months <br>
+> > &emsp; Documents and pictures must be kept for five years. However, these files are rarely requested after three months <br><br>
 > > Web Tier: <br>
 > > &emsp; Architecture must be flexible and must handle any peak in traffic or performance <br>
 > > &emsp; Servers are currently at 75% of memory capacity all the time. This number has to decrease to between 50% and 60% when initially moved to AWS <br>
 > > &emsp; The overall acceptable incoming network bandwidth is between 300 Mbps and 750 Mbps <br>
-> > &emsp; Application admins want to be notified by email if there are more than 100 "400 HTTP errors" per minute in the application <br>
+> > &emsp; Application admins want to be notified by email if there are more than 100 "400 HTTP errors" per minute in the application <br><br>
 > > Application tier: <br>
 > > &emsp; Architecture must be flexible and must handle any peak in traffic or performance <br>
 > > &emsp; Servers are currently at 90% of memory and CPU capacity all the time. This number has to decrease to between 50% and 60% when initially moved to AWS <br>
 > > &emsp; Need eventual Internet access for patching and updates <br>
 > > &emsp; Overall memory and CPU utilization should not go above 80% and 75% respectively or below 30% for both. <br>
-> > &emsp; As servers are added/removed, the application needs a centralized location to store logs <br>
+> > &emsp; As servers are added/removed, the application needs a centralized location to store logs <br><br>
 > > Database tier: <br>
 > > &emsp; Needs to be moved with as few changes to the data structure as possible <br>
 > > &emsp; Maximum downtime during migration is two hours <br>
