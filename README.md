@@ -18,7 +18,7 @@
 > > 2. Provide full documentation - a guide to deploy the application on AWS - about all aspects of configurations in the environment <br>
 > > &emsp; Final Project Description: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/Final%20Project%20Description.pdf <br>
 > > 3. A CloudFormation template of the environment in addition to the documentation will be accepted <br>
-> > &emsp; 
+> > &emsp; JSON Template: https://github.com/LLLichtenstein/AWS-Cloud-Computing-Architecture/blob/main/GoGreen%20JSON.txt <br>
 ### Current Environment and Requirements
 > > The following current environment and requirements were provided in order to complete the project. 
 #### Current Environment
