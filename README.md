@@ -1,7 +1,7 @@
 # Amazon Web Services (AWS) Cloud Computing Architecture
 ## Migration to the Cloud
 ### Overview
-> > This final project for the AWS Academy Certificate in Cloud Computing Architecture details an architectural solution to move an existing application to AWS.<br><br>
+> > This final project for the AWS Academy Certificate in Cloud Computing Architecture details an architectural solution to move an existing three-tier CRM web application to the AWS cloud such that it would continue to support personnel at corporate headquarters, around the world, and on mobile with low latency, high reliability, scalability, and fault-tolerance.<br><br>
 > > In this scenario I am a Cloud Architect employed by GoGreen to help them move an application to AWS.<br><br>
 > > The assignment description is as follows: <br>
 > > GoGreen is a regional insurance company based in San Diego, California. GoGreen has a three-tier CRM web application, supporting sales users at headquarters, remote users, and mobile users.<br><br>
